@@ -7,6 +7,6 @@ Ceasar Cipher is one of the simplest and most widely known encryption techniques
 
 new_word = 'I love Electrical/Electronics Engineering'
 
-cipher(new_word,15)  #encrypting
+a_variable = cipher(new_word,15)  #encrypting
 
-cipher(new_word,-15) #decrypting
+cipher(a_variable,-15) #decrypting

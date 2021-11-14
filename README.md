@@ -5,7 +5,7 @@ Ceasar Cipher is one of the simplest and most widely known encryption techniques
 1. The word or text you want to encrypt
 2. calling the Caesar_Cipher function
 
-new_word = 'I love Electrical/Electronics Engineering
+new_word = 'I love Electrical/Electronics Engineering'
 
 cipher(new_word,15)  #encrypting
 
